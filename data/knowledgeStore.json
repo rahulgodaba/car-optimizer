@@ -1,0 +1,38 @@
+[
+    {
+        "id": "chunk001",
+        "metadata": {"oem": "Toyota", "component": "oilMonitor", "condition": "shortCommute"},
+        "source": "Official Toyota Warranty and Maintenance Guide (Section: Scheduled Maintenance Log / Special Operating Conditions)",
+        "content": "Special Operating Conditions: Repeated short trips of less than five miles in temperatures below freezing. Note: If you primarily operate your vehicle under any of the Special Operating Conditions, you should perform additional maintenance. Inspect or replace the following items at 5,000 miles or 6 months: Engine oil and oil filter (replace), Brake linings/drums and brake pads/discs (inspect), Steering linkage and boots (inspect), Ball joints and dust covers (inspect), Drive shaft boots (inspect)."
+    },
+    {
+        "id": "chunk002",
+        "metadata": {"oem": "Toyota", "component": "batteryHealth", "condition": "winterFreeze"},
+        "source": "Official Toyota Corolla Owner's Manual (Section: Steps to Take in an Emergency / Malfunction Indicator Lamp)",
+        "content": "Malfunction Indicator Lamp (Check Engine Light): If the malfunction indicator lamp comes on while driving, it indicates a malfunction in the engine electrical control system, electronic throttle control system, or electronic automatic transmission control system. Extended engine cranking or low voltage transients caused by rapid battery state-of-charge depletion can trigger erratic electronic control unit (ECU) sensor faults. Contact your Toyota dealer as soon as possible if the lamp does not extinguish after several driving trips."
+    },
+    {
+        "id": "chunk003",
+        "metadata": {"oem": "Toyota", "component": "lifecycleLedger", "condition": "mileageVelocity"},
+        "source": "Official Toyota Warranty and Maintenance Guide (Section: Explanation of Maintenance Items / Milestone Tracking Charts)",
+        "content": "Additional Maintenance Log Charts: The scheduled maintenance log identifies the maintenance required at each mileage interval and corresponding time interval based on mileage of 1,250 miles per month. If you drive more than 1,250 miles per month, you should obtain maintenance at the indicated mileage interval rather than the indicated time interval to maintain compliance with standard emission and structural vehicle warranty provisions."
+    },
+    {
+        "id": "chunk004",
+        "metadata": {"oem": "Toyota", "component": "sparkPlugs", "condition": "highMileage"},
+        "source": "Official Toyota Technical Service Bulletin & Scheduled Maintenance Specification Matrix (Spark Plug Replacement Intervals)",
+        "content": "Spark Plugs Maintenance Specification: Replace spark plugs every 120,000 miles. High-mileage vehicles exceeding this tracking threshold experience gap degradation, leading to engine cylinder misfires, incomplete fuel combustion, or a rough idle profile. Under severe service operations like extensive idling or low-speed short commutes, spark plug fouling increases significantly, necessitating pre-emptive inspection to preserve baseline catalytic converter efficiency."
+    },
+    {
+        "id": "chunk005",
+        "metadata": {"oem": "Toyota", "component": "engineIdle", "condition": "sludgeBuildup"},
+        "source": "Official Toyota Owner's Manual (Section: Steps to Take in an Emergency / Engine Troubleshooting Guidelines)",
+        "content": "Engine Performance Warning: Rough idling, stalling, hesitation, or unexpected loss of power can be indicative of dirty air induction components or oil sludge accumulation. Missed or extended oil changes combined with frequent short trips prevent the engine from reaching full operating temperature, which causes carbon buildup under the oil cap and throughout internal valve trains, resulting in rough idle diagnostics."
+    },
+    {
+        "id": "chunk006",
+        "metadata": {"oem": "Toyota", "component": "severeOperation", "condition": "extensiveIdling"},
+        "source": "Official Toyota Warranty and Maintenance Guide (Section: Severe Service Operations & Fleet Operating Definitions)",
+        "content": "Severe Service Operating Definition: Operating conditions including extensive idling or low-speed driving for long distances—such as stop-and-go city gridlock, delivery service routines, or multi-day train station parking lot cycles. These parameters shorten the effective service life of synthetic engine lubricants, requiring a fixed 5,000-mile or 6-month maintenance check reminder activation to avoid sludge propagation."
+    }
+]
