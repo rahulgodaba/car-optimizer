@@ -1,6 +1,4 @@
 # Car-Optimizer: 
-A simple tool that takes vehicle gas logs, cross references them with text from Toyota manuals, and returns a JSON array which can be used to automate maintenance alerts. 
-
 Imagine a driver waking up on a freezing winter morning, walking out to their car, and turning the key only to hear a clicking sound because their battery died overnight. According to AAA, this frustrating experience is one that impacts 7 million drivers on a yearly basis. This tool is built to solve that exact problem before it happens.
 
 Instead of waiting for a car to break down, our tool acts like an early warning system on the driver's phone. On a morning where temperatures drop by 15 degrees, the tool immediately flags that the driver's car is at risk. 
