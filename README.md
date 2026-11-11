@@ -64,7 +64,7 @@ Execute these terminal commands from your root directory to install the necessar
 
 ```bash
 # 1
-git clone https://github.com
+git clone https://github.com/rahulgodaba/car-optimizer/
 cd car-optimizer
 
 # 2
